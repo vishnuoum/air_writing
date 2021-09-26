@@ -79,7 +79,7 @@ while True:
             className = classNames[classID]
             print(className)
 
-            if(className=="thumbs up"):
+            if(className=="rock"):
                 drawing=True
             elif(className=="call me"):
                 drawing=False
