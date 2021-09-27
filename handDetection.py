@@ -81,7 +81,7 @@ while True:
 
             if(className=="rock"):
                 drawing=True
-            elif(className=="call me"):
+            elif(className=="fist"):
                 drawing=False
             elif(not drawing and (className=="stop" or className=="live long" or className=="okay")):
                 erasing=True
